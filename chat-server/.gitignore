@@ -1,0 +1,22 @@
+# .gitignore
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+
+# Build Output
+build/
+dist/
+
+# Log Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+
+# Miscellaneous
+coverage/
